@@ -34,19 +34,6 @@ Data: Cleaned and standardized security mapping for 250+ NEPSE tickers
 
 We are proud to leverage TradingView technology for our technical analysis tools. This allows our users to access high-performance interactive charts and custom indicators directly within the Share Bazar Insights platform.
 
-📈 Roadmap
-
-[x] Security Data Standardization
-
-[ ] Beta Landing Page Deployment
-
-[ ] TradingView Library Integration (In Progress)
-
-[ ] Real-time Portfolio Analytics
-
-📄 License
-
-This project is licensed under the MIT License.
 
 📫 Contact
 
